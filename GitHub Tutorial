@@ -1,0 +1,13 @@
+
+
+1) create new branch  
+    - git branch -c <new_branch_name>
+    
+2) switch to newly created Branch 
+   -git checkout <branch_name>
+   
+3) git branch 
+
+4) git add
+
+5) git commit -m 
